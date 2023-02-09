@@ -1729,11 +1729,11 @@
           "options": [
             {
               "selected": false,
-              "text": "devxp-tech",
-              "value": "devxp-tech"
+              "text": "analect",
+              "value": "analect"
             }
           ],
-          "query": "devxp-tech",
+          "query": "analect",
           "skipUrlSync": false,
           "type": "textbox"
         },
