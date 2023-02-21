@@ -2899,8 +2899,8 @@
       {
         "current": {
           "selected": true,
-          "text": "wordpress.wordpress.svc.lgsk8sp1.grupologos.local",
-          "value": "wordpress.wordpress.svc.lgsk8sp1.grupologos.local"
+          "text": "wordpress.wordpress.svc.cluster.local",
+          "value": "wordpress.wordpress.svc.cluster.local"
         },
         "datasource": {
           "type": "prometheus",
