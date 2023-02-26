@@ -2899,8 +2899,8 @@
       {
         "current": {
           "selected": true,
-          "text": "wordpress.wordpress.svc.cluster.local",
-          "value": "wordpress.wordpress.svc.cluster.local"
+          "text": "wordpress.wordpress.svc.civo.cluster",
+          "value": "wordpress.wordpress.svc.civo.cluster"
         },
         "datasource": {
           "type": "prometheus",
