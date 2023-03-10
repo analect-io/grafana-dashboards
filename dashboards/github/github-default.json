@@ -104,7 +104,7 @@
         "collapsed": false,
         "datasource": {
           "type": "grafana-github-datasource",
-          "uid": "W8sEZXGVk"
+          "uid": "BKBYtHaVk"
         },
         "gridPos": {
           "h": 1,
@@ -118,7 +118,7 @@
           {
             "datasource": {
               "type": "grafana-github-datasource",
-              "uid": "W8sEZXGVk"
+              "uid": "BKBYtHaVk"
             },
             "refId": "A"
           }
@@ -343,7 +343,7 @@
         "collapsed": false,
         "datasource": {
           "type": "grafana-github-datasource",
-          "uid": "W8sEZXGVk"
+          "uid": "BKBYtHaVk"
         },
         "gridPos": {
           "h": 1,
@@ -357,7 +357,7 @@
           {
             "datasource": {
               "type": "grafana-github-datasource",
-              "uid": "W8sEZXGVk"
+              "uid": "BKBYtHaVk"
             },
             "refId": "A"
           }
@@ -667,7 +667,7 @@
         "collapsed": false,
         "datasource": {
           "type": "grafana-github-datasource",
-          "uid": "W8sEZXGVk"
+          "uid": "BKBYtHaVk"
         },
         "gridPos": {
           "h": 1,
@@ -681,7 +681,7 @@
           {
             "datasource": {
               "type": "grafana-github-datasource",
-              "uid": "W8sEZXGVk"
+              "uid": "BKBYtHaVk"
             },
             "refId": "A"
           }
@@ -991,7 +991,7 @@
         "collapsed": false,
         "datasource": {
           "type": "grafana-github-datasource",
-          "uid": "W8sEZXGVk"
+          "uid": "BKBYtHaVk"
         },
         "gridPos": {
           "h": 1,
@@ -1005,7 +1005,7 @@
           {
             "datasource": {
               "type": "grafana-github-datasource",
-              "uid": "W8sEZXGVk"
+              "uid": "BKBYtHaVk"
             },
             "refId": "A"
           }
@@ -1693,7 +1693,7 @@
           },
           "datasource": {
             "type": "grafana-github-datasource",
-            "uid": "W8sEZXGVk"
+            "uid": "BKBYtHaVk"
           },
           "definition": "GitHub - Repositories",
           "hide": 0,
@@ -1726,7 +1726,7 @@
           },
           "datasource": {
             "type": "grafana-github-datasource",
-            "uid": "W8sEZXGVk"
+            "uid": "BKBYtHaVk"
           },
           "definition": "GitHub - Labels",
           "hide": 0,
@@ -1781,7 +1781,7 @@
           },
           "datasource": {
             "type": "grafana-github-datasource",
-            "uid": "W8sEZXGVk"
+            "uid": "BKBYtHaVk"
           },
           "definition": "GitHub - Milestones",
           "hide": 0,
